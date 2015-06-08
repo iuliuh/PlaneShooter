@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="plane">imagini/avion.png</file>
+        <file alias="bomb">imagini/bomba.png</file>
+        <file alias="background">imagini/fundal.png</file>
+        <file alias="ammunition">imagini/munitie.png</file>
+        <file alias="wheel">imagini/roata.png</file>
+        <file alias="canon">imagini/tun.png</file>
+    </qresource>
+</RCC>
